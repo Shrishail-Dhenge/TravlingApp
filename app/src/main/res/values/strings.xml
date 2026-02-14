@@ -1,0 +1,137 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Travling App</string>
+
+    <!-- Ananteswara Temple -->
+    <string name="ananteswara_temple">
+        Ananteswara Temple in Udupi is among the oldest temples, dedicated to Lord Shiva. It is linked to Parashurama legends and holds historic importance as Acharya Madhva took his vows here. Devotees visit this temple before entering the Udupi Krishna Temple.
+    </string>
+
+    <!-- Kapu Beach -->
+    <string name="kapu_beach">
+        Kapu Beach is a peaceful coastal spot near Udupi, known for its golden sands and lighthouse. It offers stunning sunset views and is ideal for walks and photography. The beach is less crowded, making it perfect for relaxation.
+    </string>
+
+    <!-- Udupi Sri Krishna Temple -->
+    <string name="udupi_krishna_temple">
+        Udupi Sri Krishna Temple is a famous pilgrimage site founded by Sri Madhvacharya. Devotees view Lord Krishna through the Kanakana Kindi window. It is the cultural heart of Udupi and attracts thousands of visitors every year.
+    </string>
+
+    <!-- Malpe Beach -->
+    <string name="malpe_beach">
+        Malpe Beach near Udupi is popular for its clean sands and water sports. It is the gateway to St. Mary’s Island with unique rock formations. The lively beach atmosphere makes it ideal for family outings and fun activities.
+    </string>
+
+
+    <!-- Guruvarur Temple -->
+    <string name="guruvarur_temple">
+        Guruvarur Temple near Udupi is a revered shrine dedicated to Lord Krishna. It is known for its peaceful atmosphere and traditional rituals. The temple attracts devotees seeking blessings and spiritual solace. Its cultural significance makes it an important stop for pilgrims.
+    </string>
+
+    <!-- Marine World -->
+    <string name="marine_world">
+        Marine World in Udupi is a popular aquarium and marine life attraction. Visitors can explore a variety of colorful fish and aquatic species. It is an educational and entertaining spot for families and children. The exhibits highlight the rich biodiversity of coastal Karnataka.
+    </string>
+
+    <!-- Charvakkad Beach -->
+    <string name="charvakkad_beach">
+        Charvakkad Beach is a serene coastal destination near Udupi. Known for its calm waters and scenic beauty, it is ideal for relaxation. The beach offers a peaceful environment away from crowds. It is perfect for evening walks and enjoying nature’s tranquility.
+    </string>
+
+    <!-- Palayur Church -->
+    <string name="palayur_church">
+        Palayur Church is one of the oldest Christian churches in India, located near Udupi. It is believed to have been established by St. Thomas the Apostle. The church is a historic site reflecting centuries of faith and tradition. Pilgrims visit to experience its spiritual and cultural heritage.
+    </string>
+
+    <!-- Athirappilly Falls -->
+    <string name="athirappilly_falls">
+        Athirappilly Falls, often called the "Niagara of India," is the largest waterfall in Kerala, located in the Thrissur district. Formed by the Chalakudy River as it flows through the Sholayar ranges of the Western Ghats, the waterfall drops from a height of about 80 feet. Surrounded by lush forests rich in wildlife, including hornbills and other endemic species, Athirappilly is a popular destination for tourists and nature lovers. Its scenic beauty and ecological importance make it one of the most iconic natural attractions in South India.
+    </string>
+
+    <!-- Munnar -->
+    <string name="munnar">
+        Munnar is a hill station in Kerala, famous for its tea plantations, rolling hills, and cool climate. It is a popular destination for trekking, wildlife spotting, and enjoying scenic landscapes.
+    </string>
+
+    <!-- Periyar -->
+    <string name="periyar">
+        Periyar is known for the Periyar Wildlife Sanctuary in Thekkady, Kerala. It is home to elephants, tigers, and diverse flora and fauna, offering boat rides on Periyar Lake amidst lush forests.
+    </string>
+
+    <!-- Alleppey -->
+    <string name="alleppey">
+        Alleppey, also called Alappuzha, is renowned for its backwaters and houseboat cruises. It is often referred to as the "Venice of the East" and is famous for the annual Nehru Trophy Boat Race.
+    </string>
+
+    <!-- Jatayu -->
+    <string name="jatayu">
+        Jatayu Earth’s Center in Kerala is a rock-themed park featuring the world’s largest bird sculpture, inspired by the mythical Jatayu from the Ramayana. It combines mythology, adventure, and scenic views.
+    </string>
+
+    <!-- Trivandram -->
+    <string name="trivandram">
+        Trivandrum, officially Thiruvananthapuram, is the capital of Kerala. It is known for the Padmanabhaswamy Temple, beaches like Kovalam, and its rich cultural and educational institutions.
+    </string>
+
+    <!-- Suchindram -->
+    <string name="suchindram">
+        Suchindram is a temple town near Kanyakumari, famous for the Thanumalayan Temple dedicated to Brahma, Vishnu, and Shiva. The temple is noted for its tall gopuram and musical pillars.
+    </string>
+
+    <!-- Kanyakumari -->
+    <string name="kanyakumari">
+        Kanyakumari is the southernmost tip of mainland India, where the Arabian Sea, Bay of Bengal, and Indian Ocean meet. It is known for its sunrise and sunset views, Vivekananda Rock Memorial, and temples.
+    </string>
+
+    <!-- Rameshvaram -->
+    <string name="rameshvaram">
+        Rameshwaram in Tamil Nadu is a major pilgrimage site, associated with Lord Rama in the Ramayana. The Ramanathaswamy Temple is famous for its long corridors and sacred water tanks.
+    </string>
+
+    <!-- Dhanushkodi -->
+    <string name="dhanushkodi">
+        Dhanushkodi is a ghost town near Rameshwaram, once destroyed by a cyclone in 1964. It is known for its ruins, beaches, and mythological significance as the place where Rama built the bridge to Lanka.
+    </string>
+
+    <!-- Madurai -->
+    <string name="madurai">
+        Madurai in Tamil Nadu is one of the oldest cities in India, famous for the Meenakshi Amman Temple with its towering gopurams. It is a cultural hub known for classical music, dance, and cuisine.
+    </string>
+
+    <!-- Mysore -->
+    <string name="mysore">
+        Mysore in Karnataka is renowned for the Mysore Palace, its Dasara festival, and silk sarees. It is a historic city blending royal heritage with vibrant culture and art.
+    </string>
+
+    <!-- Dal Lake -->
+    <string name="dal_lake">
+    Dal Lake in Srinagar, Kashmir, is a stunning freshwater lake surrounded by the Himalayas. Famous for its houseboats and shikaras, it offers a serene experience to visitors. The lake is a symbol of Kashmir’s natural beauty and cultural heritage, attracting tourists and pilgrims alike.
+</string>
+
+    <!-- Kishtwar -->
+    <string name="kishtwar">
+    Kishtwar, located in Jammu and Kashmir, is known for its scenic landscapes and spiritual significance. The region is home to revered shrines and temples, offering peace and solace to devotees. Its natural beauty and cultural richness make it a cherished destination for travelers.
+</string>
+
+    <!-- Jaipur -->
+    <string name="jaipur">
+    Jaipur, the capital of Rajasthan, is celebrated for its majestic forts, palaces, and temples. Known as the Pink City, it blends vibrant culture with spiritual traditions. Pilgrims and tourists visit its historic shrines seeking blessings and to admire its architectural grandeur.
+</string>
+
+    <!-- Jodhpur -->
+    <string name="jodhpur">
+    Jodhpur, the Blue City of Rajasthan, is renowned for its temples and forts. The city’s spiritual atmosphere and cultural heritage draw devotees and visitors. Its shrines and rituals reflect deep-rooted traditions, making it an important stop for pilgrims.
+</string>
+
+    <!-- Jaisalmer -->
+    <string name="jaisalmer">
+    Jaisalmer, the Golden City of Rajasthan, is famous for its desert charm and historic temples. The city’s shrines are revered for their spiritual significance and traditional practices. Pilgrims and travelers find peace and cultural richness in its sacred spaces.
+</string>
+
+    <!-- Udaipur Lake -->
+    <string name="udaipur_lake">
+    Udaipur, known as the City of Lakes, is home to serene waters and revered temples along its banks. The lakes create a peaceful setting for spiritual reflection and rituals. Devotees and tourists are drawn to its cultural significance and tranquil atmosphere.
+</string>
+
+
+</resources>

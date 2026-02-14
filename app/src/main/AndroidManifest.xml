@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TravlingApp"
+        tools:targetApi="35">
+        <activity
+            android:name=".Rajasthan.Udaipur_LakeAct"
+            android:exported="false" />
+        <activity
+            android:name=".Rajasthan.JaisalmerAct"
+            android:exported="false" />
+        <activity
+            android:name=".Rajasthan.JodhapurAct"
+            android:exported="false" />
+        <activity
+            android:name=".Rajasthan.JaipurAct"
+            android:exported="false" />
+        <activity
+            android:name=".Kashmir.Dal_LakeAct"
+            android:exported="false" />
+        <activity
+            android:name=".Kashmir.KishtwarAct"
+            android:exported="false" />
+        <activity
+            android:name=".Rajasthan.RajsthanAct"
+            android:exported="false" />
+        <activity
+            android:name=".Kashmir.KAshmirAct"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterAct"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreenAct"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Kerala_maisourAct"
+            android:exported="false" />
+        <activity
+            android:name=".MaduraiAct"
+            android:exported="false" />
+        <activity
+            android:name=".DhanushkodiAct"
+            android:exported="false" />
+        <activity
+            android:name=".RameshvaramAct"
+            android:exported="false" />
+        <activity
+            android:name=".KanyakumariAct"
+            android:exported="false" />
+        <activity
+            android:name=".SuchindramAct"
+            android:exported="false" />
+        <activity
+            android:name=".TrivandramAct"
+            android:exported="false" />
+        <activity
+            android:name=".JatayuAct"
+            android:exported="false" />
+        <activity
+            android:name=".AlleppeyAct"
+            android:exported="false" />
+        <activity
+            android:name=".PeriyarAct"
+            android:exported="false" />
+        <activity
+            android:name=".MunnarAct"
+            android:exported="false" />
+        <activity
+            android:name=".AthirapallyAct"
+            android:exported="false" />
+        <activity
+            android:name=".GuruAct"
+            android:exported="false" />
+        <activity
+            android:name=".UdupiAct"
+            android:exported="false" />
+        <activity
+            android:name=".Kelara_Act"
+            android:exported="false" />
+        <activity
+            android:name=".Login_Act"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

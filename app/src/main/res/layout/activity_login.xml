@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".Login_Act">
+
+    <!-- Fullscreen Video Background -->
+    <VideoView
+        android:id="@+id/login_veidoView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:layout_gravity="center"/>
+
+    <!-- Overlay Login Form -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:padding="22dp"
+        android:background="@android:color/transparent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:textSize="44sp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:layout_marginBottom="32dp"/>
+
+        <EditText
+            android:id="@+id/edt_Login_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email :"
+            android:textColor="#000"
+            android:textColorHint="#fff"
+            android:inputType="text"
+            android:textSize="22sp"
+            android:layout_marginBottom="12dp"
+            android:padding="12dp"
+            android:background="@drawable/bg_login_items"/>
+
+        <EditText
+            android:id="@+id/edt_Login_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password :"
+            android:textColor="#000"
+            android:textColorHint="#fff"
+            android:inputType="textPassword"
+            android:textSize="22sp"
+            android:layout_marginBottom="22dp"
+            android:padding="12dp"
+            android:background="@drawable/bg_login_items"/>
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:textSize="22sp"
+            android:backgroundTint="@color/black"
+            android:padding="9dp"
+            android:layout_marginBottom="12dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Register"
+            android:textSize="22sp"
+            android:id="@+id/txtReg"
+            android:textColor="#fff"/>
+    </LinearLayout>
+
+</FrameLayout>

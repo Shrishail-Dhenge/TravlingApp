@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_marginLeft="12dp"
+    android:layout_marginBottom="33dp"
+    >
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="180dp"
+        android:layout_height="270dp"
+        android:id="@+id/KashmirCard"
+        android:elevation="33dp"
+        app:cardCornerRadius="34dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#A7FFEB"
+            >
+
+            <ImageView
+                android:id="@+id/Kashmir_imgModel"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:textSize="24sp"
+                android:textColor="#000"
+                android:ems="12"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:id="@+id/Kashmir_txtModel"
+                android:layout_alignParentTop="true"
+                />
+
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+</LinearLayout>
